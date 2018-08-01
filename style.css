@@ -1,0 +1,9 @@
+svg .state {
+    cursor: pointer;
+    fill: #D3DEE2;
+}
+
+svg .state:hover {
+    fill: #FCAF17;
+    transition: 0.1s linear;
+}
