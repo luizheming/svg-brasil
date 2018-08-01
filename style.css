@@ -3,7 +3,6 @@ svg .state {
     fill: #D3DEE2;
 }
 
-svg .state:hover {
-    fill: #FCAF17;
+svg .state:hover {    
     transition: 0.1s linear;
 }
